@@ -1,6 +1,6 @@
 # myla
 
-# 開発環境
+## 開発環境
 
 OS：MacOS HighSierra(10.13.6)
 
