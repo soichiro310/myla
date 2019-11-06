@@ -2,8 +2,8 @@
 //  myla.h
 //  myla
 //
-//  Created by 佐藤荘一朗 on 2018/07/21.
-//  Copyright © 2018年 佐藤荘一朗. All rights reserved.
+//  Created by soichiro310 on 2018/07/21.
+//  Copyright © 2018年 soichiro310. All rights reserved.
 //
 
 #ifndef myla_h
